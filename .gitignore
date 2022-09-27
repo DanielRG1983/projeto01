@@ -130,4 +130,4 @@ db copy.sqlite3
 static/
 
 projeto/settings.py
-/settings.py
+.projeto/settings.py
