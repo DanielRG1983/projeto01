@@ -129,5 +129,5 @@ db.sqlite3
 db copy.sqlite3
 static/
 
-settings.py
+projeto/settings.py
 /settings.py
